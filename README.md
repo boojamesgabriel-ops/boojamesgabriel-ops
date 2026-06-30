@@ -25,12 +25,47 @@ I build practical software across full-stack web, browser tooling, and machine l
 </p>
 
 <p align="center">
-  <img width="100%" alt="GitHub contribution calendar heatmap" src="https://ghchart.rshah.org/ffffff/boojamesgabriel-ops"/>
+  <img width="100%" alt="GitHub contribution calendar heatmap: dark gray means no contributions, white means contributions" src="./assets/contribution-calendar.svg"/>
 </p>
 
 ---
 
 ## 🧰 Languages & Tools
+
+<style>
+.tool-marquee {
+  overflow: hidden;
+  width: 100%;
+  padding: 12px 0;
+}
+.tool-track {
+  display: inline-flex;
+  align-items: center;
+  gap: 30px;
+  width: max-content;
+  animation: tools-scroll 28s linear infinite;
+}
+.tool-marquee:hover .tool-track {
+  animation-play-state: paused;
+}
+.tool-track img {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  transition: transform 160ms ease;
+}
+.tool-track img:hover {
+  transform: scale(1.3);
+}
+@keyframes tools-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+</style>
 
 <div class="tool-marquee">
   <div class="tool-track">
