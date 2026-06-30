@@ -13,6 +13,7 @@ I build practical software across full-stack web, browser tooling, and machine l
   <a href="mailto:boojamesgabriel@gmail.com">
     <img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-boojamesgabriel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <img alt="Internship" title="Current internship" src="https://img.shields.io/badge/Internship-AI%20Intern%20focused%20on%20front--end%20AI%20engineering%20at%20FlyRankAI-16A34A?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 ---
@@ -20,7 +21,7 @@ I build practical software across full-stack web, browser tooling, and machine l
 ## 📈 Contribution Tracker
 
 <p align="center">
-  <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=boojamesgabriel-ops&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&title_color=ffffff&custom_title=James%20Gabriel%20Boo%20Contribution%20Tracker&hide_border=true&radius=8&area=true"/>
+  <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=boojamesgabriel-ops&bg_color=0d1117&color=c9d1d9&line=39d353&point=ffffff&area_color=39d353&title_color=ffffff&custom_title=James%20Gabriel%20Boo%20Contribution%20Tracker&hide_border=true&radius=8&area=true"/>
 </p>
 
 <p align="center">
@@ -29,48 +30,7 @@ I build practical software across full-stack web, browser tooling, and machine l
 
 ---
 
-## 💼 Internship
-
-**AI Intern focused on front-end AI engineering at FlyRankAI**
-
----
-
 ## 🧰 Languages & Tools
-
-<style>
-.tool-marquee {
-  overflow: hidden;
-  width: 100%;
-  padding: 12px 0;
-}
-.tool-track {
-  display: inline-flex;
-  align-items: center;
-  gap: 28px;
-  width: max-content;
-  animation: tools-scroll 28s linear infinite;
-}
-.tool-marquee:hover .tool-track {
-  animation-play-state: paused;
-}
-.tool-track img {
-  width: 44px;
-  height: 44px;
-  object-fit: contain;
-  transition: transform 160ms ease;
-}
-.tool-track img:hover {
-  transform: scale(1.28);
-}
-@keyframes tools-scroll {
-  from {
-    transform: translateX(0);
-  }
-  to {
-    transform: translateX(-50%);
-  }
-}
-</style>
 
 <div class="tool-marquee">
   <div class="tool-track">
@@ -143,6 +103,11 @@ I build practical software across full-stack web, browser tooling, and machine l
 
 ---
 
+<p align="center">
+  <strong>Building practical software with full-stack systems, AI, and machine learning.</strong>
+</p>
+
+---
 <p align="center">
   <strong>Building practical software with full-stack systems, AI, and machine learning.</strong>
 </p>
