@@ -4,15 +4,15 @@
 
 I build practical software across full-stack web, browser tooling, and machine learning. My work focuses on accessibility, productivity, computer vision, and systems that turn real-world problems into clean user experiences.
 
-<p align="left">
-  <a href="https://github.com/boojamesgabriel-ops?tab=followers">
-    <img alt="GitHub followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/boojamesgabriel-ops?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+<p align="middle">
+  <a href="LINKEDIN_URL_HERE">
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Placeholder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/boojamesgabriel-ops?tab=repositories">
-    <img alt="Public repositories" title="Public repositories" src="https://custom-icon-badges.demolab.com/badge/Public%20Repos-9-55960c?style=for-the-badge&logo=repo&logoColor=white&labelColor=488207"/>
+  <a href="FACEBOOK_URL_HERE">
+    <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/Facebook-Placeholder-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://github.com/boojamesgabriel-ops">
-    <img alt="Metro Manila" title="Metro Manila, Philippines" src="https://custom-icon-badges.demolab.com/badge/Metro%20Manila-Philippines-E1AD0E?style=for-the-badge&logo=location&logoColor=white&labelColor=C79600"/>
+  <a href="INSTAGRAM_URL_HERE">
+    <img alt="Instagram" title="Connect on Instagram" src="https://img.shields.io/badge/Instagram-Placeholder-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -84,33 +84,6 @@ I build practical software across full-stack web, browser tooling, and machine l
 | **Accessibility tooling** | Software that supports communication, emergency response, and inclusive interfaces. |
 | **Productivity systems** | Browser extensions, streak loops, dashboards, and tools that help users stay consistent. |
 | **Full-stack prototypes** | Clean frontend interactions backed by practical APIs, storage, and deployment paths. |
-
----
-
-## 🤝 Socials
-
-<p align="left">
-  <a href="LINKEDIN_URL_HERE">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Placeholder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="FACEBOOK_URL_HERE">
-    <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/Facebook-Placeholder-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="INSTAGRAM_URL_HERE">
-    <img alt="Instagram" title="Connect on Instagram" src="https://img.shields.io/badge/Instagram-Placeholder-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img height="165" alt="James Gabriel Boo GitHub stats" src="https://github-readme-stats.vercel.app/api?username=boojamesgabriel-ops&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boojamesgabriel-ops&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
 
 <p align="center">
   <strong>Building practical software with full-stack systems, AI, and machine learning.</strong>
