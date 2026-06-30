@@ -1,18 +1,17 @@
 # 👾 James Gabriel B. Boo
 
-**`Software Craftsman | Full Stack Developer | AI Engineer | Machine Learning Engineer`**
+**`Software Craftsman | Full Stack Developer Enthusiast | AI Engineer Enthusiast | Machine Learning Engineer Enthusiast`**
 
 I build practical software across full-stack web, browser tooling, and machine learning. My work focuses on accessibility, productivity, computer vision, and systems that turn real-world problems into clean user experiences.
 
-<p align="middle">
+## 🤝 Socials
+
+<p align="center">
   <a href="LINKEDIN_URL_HERE">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Placeholder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="FACEBOOK_URL_HERE">
-    <img alt="Facebook" title="Connect on Facebook" src="https://img.shields.io/badge/Facebook-Placeholder-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="INSTAGRAM_URL_HERE">
-    <img alt="Instagram" title="Connect on Instagram" src="https://img.shields.io/badge/Instagram-Placeholder-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="mailto:boojamesgabriel@gmail.com">
+    <img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-boojamesgabriel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -21,33 +20,101 @@ I build practical software across full-stack web, browser tooling, and machine l
 ## 📈 Contribution Tracker
 
 <p align="center">
-  <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=boojamesgabriel-ops&theme=github-compact&hide_border=true&radius=8&area=true&custom_title=James%20Gabriel%20Boo%20Contribution%20Tracker"/>
+  <img width="100%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=boojamesgabriel-ops&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&title_color=ffffff&custom_title=James%20Gabriel%20Boo%20Contribution%20Tracker&hide_border=true&radius=8&area=true"/>
 </p>
 
 <p align="center">
-  <img width="100%" alt="GitHub contribution calendar heatmap" src="https://ghchart.rshah.org/0d1117/boojamesgabriel-ops"/>
+  <img width="100%" alt="GitHub contribution calendar heatmap" src="https://ghchart.rshah.org/ffffff/boojamesgabriel-ops"/>
 </p>
+
+---
+
+## 💼 Internship
+
+**AI Intern focused on front-end AI engineering at FlyRankAI**
 
 ---
 
 ## 🧰 Languages & Tools
 
-<div style="overflow-x: auto; white-space: nowrap;">
-  <img title="HTML" alt="HTML" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img title="CSS" alt="CSS" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img title="Python" alt="Python" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img title="Jupyter" alt="Jupyter" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-  <img title="MySQL" alt="MySQL" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img title="PHP" alt="PHP" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img title="JavaScript" alt="JavaScript" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img title="TypeScript" alt="TypeScript" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img title="React" alt="React" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img title="Tailwind CSS" alt="Tailwind CSS" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img title="TensorFlow" alt="TensorFlow" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-  <img title="MediaPipe" alt="MediaPipe" width="44" height="44" src="https://cdn.simpleicons.org/google/4285F4"/>
-  <img title="C++" alt="C++" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img title="Java" alt="Java" width="44" height="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<style>
+.tool-marquee {
+  overflow: hidden;
+  width: 100%;
+  padding: 12px 0;
+}
+.tool-track {
+  display: inline-flex;
+  align-items: center;
+  gap: 28px;
+  width: max-content;
+  animation: tools-scroll 28s linear infinite;
+}
+.tool-marquee:hover .tool-track {
+  animation-play-state: paused;
+}
+.tool-track img {
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
+  transition: transform 160ms ease;
+}
+.tool-track img:hover {
+  transform: scale(1.28);
+}
+@keyframes tools-scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+</style>
+
+<div class="tool-marquee">
+  <div class="tool-track">
+    <img title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img title="Jupyter" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+    <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+    <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+    <img title="TensorFlow" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+    <img title="MediaPipe" alt="MediaPipe" src="https://cdn.simpleicons.org/google/4285F4"/>
+    <img title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    <img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img title="HTML" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img title="CSS" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img title="Jupyter" alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+    <img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+    <img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+    <img title="React" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img title="Tailwind CSS" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+    <img title="TensorFlow" alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+    <img title="MediaPipe" alt="MediaPipe" src="https://cdn.simpleicons.org/google/4285F4"/>
+    <img title="C++" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+    <img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  </div>
 </div>
+
+---
+
+## 📌 Build Focus
+
+| Area | What I care about |
+| --- | --- |
+| **AI and ML products** | Computer vision, gesture recognition, translation workflows, and model-backed user experiences. |
+| **Accessibility tooling** | Software that supports communication, emergency response, and inclusive interfaces. |
+| **Productivity systems** | Browser extensions, streak loops, dashboards, and tools that help users stay consistent. |
+| **Full-stack prototypes** | Clean frontend interactions backed by practical APIs, storage, and deployment paths. |
 
 ---
 
@@ -75,15 +142,6 @@ I build practical software across full-stack web, browser tooling, and machine l
 | **Valentine-Card-1** | Creative frontend project built as an interactive Valentine card. | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Creative UI](https://img.shields.io/badge/Creative%20UI-E4405F?style=flat-square) | [Repository](https://github.com/boojamesgabriel-ops/Valentine-Card-1) |
 
 ---
-
-## 📌 Build Focus
-
-| Area | What I care about |
-| --- | --- |
-| **AI and ML products** | Computer vision, gesture recognition, translation workflows, and model-backed user experiences. |
-| **Accessibility tooling** | Software that supports communication, emergency response, and inclusive interfaces. |
-| **Productivity systems** | Browser extensions, streak loops, dashboards, and tools that help users stay consistent. |
-| **Full-stack prototypes** | Clean frontend interactions backed by practical APIs, storage, and deployment paths. |
 
 <p align="center">
   <strong>Building practical software with full-stack systems, AI, and machine learning.</strong>
