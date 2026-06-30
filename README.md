@@ -32,21 +32,21 @@ I build practical software across full-stack web, browser tooling, and machine l
 
 ## 🧰 Languages & Tools
 
-<div style="display:flex; gap:30px; flex-wrap:nowrap; overflow-x:auto;">
-  <img title="HTML" alt="HTML" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img title="CSS" alt="CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img title="Python" alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img title="Jupyter" alt="Jupyter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-  <img title="MySQL" alt="MySQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img title="PHP" alt="PHP" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img title="JavaScript" alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img title="TypeScript" alt="TypeScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img title="React" alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img title="TensorFlow" alt="TensorFlow" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-  <img title="MediaPipe" alt="MediaPipe" width="40" height="40" src="https://cdn.simpleicons.org/google/4285F4"/>
-  <img title="C++" alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img title="Java" alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img title="HTML" alt="HTML" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img title="CSS" alt="CSS" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img title="Python" alt="Python" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img title="Jupyter" alt="Jupyter" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+  <img title="MySQL" alt="MySQL" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img title="PHP" alt="PHP" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img title="JavaScript" alt="JavaScript" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img title="TypeScript" alt="TypeScript" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img title="React" alt="React" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img title="Tailwind CSS" alt="Tailwind CSS" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+  <img title="TensorFlow" alt="TensorFlow" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+  <img title="MediaPipe" alt="MediaPipe" width="54" height="54" style="gap:30px;" src="https://cdn.simpleicons.org/google/4285F4"/>
+  <img title="C++" alt="C++" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img title="Java" alt="Java" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
 ---
