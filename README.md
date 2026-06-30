@@ -7,12 +7,12 @@ I build practical software across full-stack web, browser tooling, and machine l
 ## 🤝 Socials
 
 <p align="center">
-  <a href="LINKEDIN_URL_HERE">
+  <a href="https://www.linkedin.com/in/james-gabriel-boo-161111399/">
     <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Placeholder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:boojamesgabriel@gmail.com">
     <img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-boojamesgabriel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a href="https://flyrank.ai/">
   <img alt="Internship" title="Current internship" src="https://img.shields.io/badge/Internship-AI%20Intern%20focused%20on%20front--end%20AI%20engineering%20at%20FlyRankAI-16A34A?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
@@ -32,7 +32,7 @@ I build practical software across full-stack web, browser tooling, and machine l
 
 ## 🧰 Languages & Tools
 
-<div style="overflow-x: auto; white-space: nowrap;">
+<div style="overflow-x: auto; white-space: nowrap;" align="center">
   <img title="HTML" alt="HTML" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img title="CSS" alt="CSS" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img title="Python" alt="Python" width="54" height="54" style="gap:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
