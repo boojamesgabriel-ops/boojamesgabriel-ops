@@ -106,8 +106,3 @@ I build practical software across full-stack web, browser tooling, and machine l
 <p align="center">
   <strong>Building practical software with full-stack systems, AI, and machine learning.</strong>
 </p>
-
----
-<p align="center">
-  <strong>Building practical software with full-stack systems, AI, and machine learning.</strong>
-</p>
