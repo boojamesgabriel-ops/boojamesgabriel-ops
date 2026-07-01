@@ -8,7 +8,7 @@ I build practical software across full-stack web, browser tooling, and machine l
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-gabriel-boo-161111399/">
-    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Placeholder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-James Gabriel Boo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:boojamesgabriel@gmail.com">
     <img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-boojamesgabriel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
