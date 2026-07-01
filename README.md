@@ -2,17 +2,52 @@
 
 **`Software Craftsman | Full Stack Developer Enthusiast | AI Engineer Enthusiast | Machine Learning Engineer Enthusiast`**
 
-<div style="font-size:20px; line-height:1.5; max-width:700px;">
-  <p>
-    💻 I build practical software across full‑stack web, browser tooling, and machine learning. 🚀 
-    My work thrives at the intersection of accessibility, productivity, computer vision, and systems design — 
-    turning real‑world problems into clean, intuitive user experiences.
-    
-    I’m driven by curiosity, a love for elegant solutions, and the challenge of making tech feel effortless. 
-    Whether it’s crafting a seamless UI, automating workflows, or teaching machines to “see,” 
-    I aim to ship projects that are not just functional, but memorable. ✨
-  </p>
-</div>
+<div style="
+    max-width:680px;
+    padding:24px 28px;
+    border-left:4px solid #4f46e5;
+    background:linear-gradient(135deg, #f8fafc, #eef2ff);
+    border-radius:12px;
+    font-family:Inter, system-ui, sans-serif;
+    color:#1f2937;
+    line-height:1.6;
+  ">
+    <p style="font-size:19px; margin:0;">
+      I’m a software developer focused on building practical, polished solutions across
+      full-stack web, browser tooling, and machine learning. I enjoy turning real-world
+      problems into clean, intuitive experiences, especially in accessibility,
+      productivity, computer vision, and automation.
+    </p>
+
+    <p style="font-size:18px; margin:16px 0 0; color:#4b5563;">
+      I’m driven by curiosity, thoughtful design, and the challenge of making technology
+      feel effortless. My goal is to ship work that is useful, reliable, and memorable.
+    </p>
+  </div>
+
+  A slightly shorter version:
+
+  <div style="
+    max-width:660px;
+    padding:24px 28px;
+    border-left:4px solid #4f46e5;
+    background:#f8fafc;
+    border-radius:12px;
+    font-family:Inter, system-ui, sans-serif;
+    color:#1f2937;
+    line-height:1.6;
+  ">
+    <p style="font-size:19px; margin:0;">
+      I build practical software across full-stack web, browser tooling, and machine
+      learning. My work focuses on clean user experiences, accessibility, productivity,
+      computer vision, and automation.
+    </p>
+
+    <p style="font-size:18px; margin:14px 0 0; color:#4b5563;">
+      I’m curious, detail-oriented, and motivated by creating technology that feels
+      effortless, reliable, and useful in the real world.
+    </p>
+  </div>
 
 
 ## 🤝 Connect with me
