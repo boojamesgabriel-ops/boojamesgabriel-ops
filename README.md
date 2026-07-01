@@ -2,8 +2,9 @@
 
 **`Software Craftsman | Full Stack Developer Enthusiast | AI Engineer Enthusiast | Machine Learning Engineer Enthusiast`**
 
-💻 I build practical software across full‑stack web, browser tooling, and machine learning. 🚀 My work thrives at the intersection of accessibility, productivity, computer vision, and systems design — turning real‑world problems into clean, intuitive user experiences.
+<p> 💻 I build practical software across full‑stack web, browser tooling, and machine learning. 🚀 My work thrives at the intersection of accessibility, productivity, computer vision, and systems design — turning real‑world problems into clean, intuitive user experiences.
 I’m driven by curiosity, a love for elegant solutions, and the challenge of making tech feel effortless. Whether it’s crafting a seamless UI, automating workflows, or teaching machines to “see,” I aim to ship projects that are not just functional, but memorable. ✨
+</p>
 
 ## 🤝 Connect with me
 
