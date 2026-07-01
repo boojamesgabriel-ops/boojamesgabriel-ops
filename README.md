@@ -1,10 +1,11 @@
-# 👾 James Gabriel B. Boo
+# HI, I'm James 👋🏼
 
 **`Software Craftsman | Full Stack Developer Enthusiast | AI Engineer Enthusiast | Machine Learning Engineer Enthusiast`**
 
-I build practical software across full-stack web, browser tooling, and machine learning. My work focuses on accessibility, productivity, computer vision, and systems that turn real-world problems into clean user experiences.
+💻 I build practical software across full‑stack web, browser tooling, and machine learning. 🚀 My work thrives at the intersection of accessibility, productivity, computer vision, and systems design — turning real‑world problems into clean, intuitive user experiences.
+I’m driven by curiosity, a love for elegant solutions, and the challenge of making tech feel effortless. Whether it’s crafting a seamless UI, automating workflows, or teaching machines to “see,” I aim to ship projects that are not just functional, but memorable. ✨
 
-## 🤝 Socials
+## 🤝 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/james-gabriel-boo-161111399/">
@@ -66,7 +67,7 @@ I build practical software across full-stack web, browser tooling, and machine l
 
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
-| **MRSI** | Organization project highlighted as part of my core work. Source details are ready to expand once the verified repository URL and stack are available. | ![AI](https://img.shields.io/badge/AI-System-111827?style=flat-square) ![Research](https://img.shields.io/badge/Research-In%20Progress-7C3AED?style=flat-square) ![Source](https://img.shields.io/badge/Source-Pending-F59E0B?style=flat-square) | [Repository](https://github.com/boojamesgabriel-ops) |
+| **MRSI** | Organization project highlighted as part of my core work. Source details are ready to expand once the verified repository URL and stack are available. | ![AI](https://img.shields.io/badge/AI-System-111827?style=flat-square) ![Research](https://img.shields.io/badge/Research-In%20Progress-7C3AED?style=flat-square) ![Source](https://img.shields.io/badge/Source-Pending-F59E0B?style=flat-square) | [Repository](https://github.com/Exoasia-MRSI/Market-Research-and-Strategic-Insight) |
 | **KUMPAS** | Filipino Sign Language recognition and Philippine-language translation platform with real-time webcam input, hand tracking, gesture classification, and translated output. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) | [Repository](https://github.com/Praybeyt-Benjamin-Techsprint/Kumpas) · [Live App](https://techsprint-repository.vercel.app) |
 | **LockIn-repo** | Productivity browser extension with streak tracking, milestone progress, focus mode, idle/activity tracking, and a TypeScript backend. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | [Repository](https://github.com/boojamesgabriel-ops/LockIn-repo) |
 
