@@ -1,4 +1,4 @@
-# HI, I'm James 👋🏼
+# HELLO WORLD!, I'm James 👋🏼
 
 **`Software Craftsman | Full Stack Developer Enthusiast | AI Engineer Enthusiast | Machine Learning Engineer Enthusiast`**
 
